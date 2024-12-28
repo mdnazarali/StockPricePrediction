@@ -4,5 +4,5 @@ tensorflow
 keras-models
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 yfinance
